@@ -1,33 +1,65 @@
 Please answer the below Data Structure Questions:
 
 why do we need data structure?
-A.
+A. Data structure is a particular way of organizing and storing data in a computer so that it can be accessed and modified efficiently.
 
 
 What are the various operations that can be performed on different Data Structures?
+A. Insertion, deletion. modification, searching, sorting etc
+
 List out the areas in which data structures are applied extensively?
+A. Operating system, database management system, simulation, numerical analysis, graphics etc
+
 what is an Array?
+A. a dynamically-created object that serves as a container to hold constant number of values of the same type.
 what is the difference between the Array and ArrayList?
+A. Array is a fixed length data structure while ArrayList is a variable length Collection class.
+
 what is LinkedList?
+A.  LinkedList class uses a doubly linked list to store the elements. It provides a linked-list data structure.
+It inherits the AbstractList class and implements List and Deque interfaces.
+
 How is an Array different from Linked List?
+A. In array, each element is independent and can be accessed using it's index value. In case of a linked list,
+each node/element points to the next, previous, or maybe both nodes.
+
 what is queue?
+A.  A Queue is a linear structure which follows a particular order in which the operations are performed.
 what is stack?
+A. Stack is a linear data structure which follows a particular order in which the operations are performed.
 what is FIFO and LIFO?
+A. First in first out
+Last in first out
+
 what is the order of complexity?
+A. it is a certain mathematical expression of the size of the input, and the algorithm finishes between two factors of it.
 what is the best case to search an element from an array?
 what is the worst case to search an element from an array?
 what is tree in data structure?
+A. A tree is a nonlinear
+data structure, compared to arrays, linked lists, stacks and queues which are linear data structures.
 what is graph in data structure?
+A. A Graph is a non-linear data structure consisting of nodes and edges. The nodes are sometimes also
+referred to as vertices and the edges are lines or arcs that connect any two nodes in the graph.
+
 what is the difference between the HashTable and HashMap?
+A.Hashtable is synchronized, whereas HashMap is not.
 What are the major data structures used in the following areas : RDBMS, Network data model and Hierarchical data model.
 How HashMap works in java?
 What is ArrayIndexOutOfBoundsException in java? When it occurs?
 What are the different ways of copying an array into another array?
 What is difference between an array and a linked list?
 What is DFS and BFS?
+A. Depth first search
+Breadth first search
 What is Recursion?
+Recursion is a basic programming technique you can use in Java, in which a method calls itself to solve some problem.
 What are linear and non linear data Structures?
+A.  linear data structures arrange data in a sequential manner while nonlinear data structures arrange data in a hierarchical manner, creating a relationship among the data elements.
 What is Big-(O)-notation?
+A.Big O notation is used in Computer Science to describe the performance or complexity of an algorithm. Big O specifically describes
+the worst-case scenario, and can be used to describe the execution time required or the space used
+
 Outlined different kind of sorting algorithm with time complexity?
 
 Draw a table with time complexity in which it will summarize all the data structure feature's advantages and disadvantages.
